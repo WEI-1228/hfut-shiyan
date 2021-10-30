@@ -1,0 +1,8 @@
+学号		姓名		分数
+1		lll		12
+2		llk		21
+3		jsa		7
+4		asd		71
+5		vcas		99
+6		vcs		100
+7		jbw		88
