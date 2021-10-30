@@ -1,0 +1,15 @@
+if
+for
+else
+while
+do
+int
+double
+float
+return
+break
+scanf
+printf
+then
+true
+false

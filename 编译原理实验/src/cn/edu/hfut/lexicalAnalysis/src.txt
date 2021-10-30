@@ -1,0 +1,10 @@
+for int i = 0;i<=3;i++
+double s = 0.003  //信息技术
+3b =/*
+akjjnx编译原理
+*/ 0.03
+
+while(int j = 0){
+float[]arr = new float[]
+
+}
